@@ -19,7 +19,7 @@ Fitness centres face significant operational challenges that directly affect cus
 
   ![image](https://github.com/user-attachments/assets/4a790622-27b0-4c5a-8a22-2eec82ffe88d)
 
-- 
+  
 ## Key Objectives
 
 - **Data Collection and Preparation:**  

@@ -16,6 +16,9 @@ Fitness centres face significant operational challenges that directly affect cus
 - Our sequential multi-agentic workflow is designed to systematically transform raw customer review data into actionable business insights.
 
 - The process begins with the **Data Ingestion Agent**, which loads and cleans the review data from multiple sources. Next, the **Preprocessing Agent** standardizes the text by converting it to lowercase, removing numbers and stopwords, and tokenizing the content. The **Frequency Analysis Agent** then analyzes the word distributions and creates visualizations, providing an initial overview of dominant terms. Following this, the **Topic Modelling Agent** applies BERTopic (with a comparison to LDA) to extract distinct thematic clusters from negative reviews, while the **Emotion Analysis Agent** isolates reviews expressing anger to pinpoint critical issues. The **LLM-Based Insight Agent** further refines these outputs by generating business-specific recommendations, which are complemented by the **Location Analysis Agent** that identifies hotspots of negative sentiment. Finally, the **Reporting Agent** integrates all these outputs into a comprehensive report, ensuring that each sequential step builds on the previous one to deliver clear, actionable insights for strategic decision-making.
+
+  ![image](https://github.com/user-attachments/assets/4a790622-27b0-4c5a-8a22-2eec82ffe88d)
+
 - 
 ## Key Objectives
 
